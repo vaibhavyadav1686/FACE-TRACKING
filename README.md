@@ -32,7 +32,8 @@ This program takes in a video file and gives an output video file with the detec
 The program also generates a dictionary, "times", which takes into account the various timestamps for which the particular frame contained a person.
 This is helpful in deciding the time for which a person was present in the video.
 
-I have provided a stock video for the program. The ouput file is too large to be uploaded here.
+I have provided a stock video for the program.
+
 
 
 
