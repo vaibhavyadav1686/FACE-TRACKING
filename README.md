@@ -33,7 +33,7 @@ The program also generates a dictionary, "times", which takes into account the v
 This is helpful in deciding the time for which a person was present in the video.
 
 I have provided a stock video for the program.
-
+I have also provided the output file that I received when I ran the program.
 
 
 
